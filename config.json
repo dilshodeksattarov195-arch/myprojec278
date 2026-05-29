@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploadercpdate",
+        "uuid": 1842584,
+        "checksum": "amz6o"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
